@@ -2,7 +2,7 @@
 👨‍💻 Currently working on AI agents<br>🐍 Learning Python<br>❓ Ask me about agents<br>💡 Fun Fact: I love both my life and coding
 
 
-## 🌐 Socials:
+## 🌐 Reach Me Out:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jawad.saghir.7587) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jawadsaghir_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jawad-saghir-0813591a9/) 
 
 # 💻 Tech Stack:
