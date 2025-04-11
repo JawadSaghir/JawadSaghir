@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Currently working on AI agents<br>🐍 Learning Python<br>❓ Ask me about agents<br>💡 Fun Fact: I love both my life and coding
+👨‍💻 Currently working on AI agents<br>🐍 Python Developer<br>❓ Ask me about agents<br>💡 Fun Fact: I love both my life and coding
 
 
 ## 🌐 Reach Me Out:
